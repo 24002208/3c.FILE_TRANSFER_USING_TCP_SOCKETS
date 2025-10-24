@@ -58,7 +58,8 @@ print('Connection closed')
 ```
 ## OUTPUT
 
-![alt text](ex-3c.jpg)
+![ex-3c](https://github.com/user-attachments/assets/cc79f4fa-78f7-4762-8b18-606fd4daa49f)
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
